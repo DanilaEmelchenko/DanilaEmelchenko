@@ -34,7 +34,7 @@
 
 #### 🖥️ Frontend
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,vue,nextjs,tailwindcss" alt="Frontend" />
+  <img src="https://skillicons.dev/icons?i=javascript,typescript,react,vue,nextjs,tailwindcss" alt="Frontend" />
 </p>
 
 #### ⚙️ Инструменты & Построение
