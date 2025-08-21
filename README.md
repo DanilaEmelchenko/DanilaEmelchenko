@@ -1,6 +1,6 @@
 <h1 align="left">
   <br>
-  Привет, я Данила 👋
+  Hi, I'm Danila. 👋
 </h1>
 
 <p align="left">
