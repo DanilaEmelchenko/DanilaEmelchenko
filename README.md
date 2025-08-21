@@ -4,12 +4,12 @@
 </h1>
 
 <p align="center">
-  <strong>Frontend-разработчик</strong> 🚀 | Создаю красивые, быстрые и удобные веб-приложения
+  <strong>Frontend-разработчик</strong> 🚀
 </p>
 
 <p align="center">
   <a href="mailto:emelchenko1997@yandex.ru">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    <img src="https://img.shields.io/badge/Yandex.mail-FFA500?style=for-the-badge&logo=yandex&logoColor=white" alt="Gmail" />
   </a>
   <a href="https://t.me/furyyxx" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
@@ -18,15 +18,6 @@
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
-
----
-
-### 💼 О себе
-
-Я — увлечённый **Frontend-разработчик**, который превращает идеи в красивые, отзывчивые и производительные интерфейсы.  
-Работаю с **HTML, CSS, JavaScript, React, TypeScript, Next.js** и всем, что помогает создавать лучший пользовательский опыт.
-
-✨ Люблю чистый код, доступность, анимации и оптимизацию. Каждая строка — это маленькая часть искусства.
 
 ---
 
