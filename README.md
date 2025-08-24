@@ -4,7 +4,7 @@
 </h1>
 
 <p align="left">
-  <strong>Front-end developer </strong> 🚀
+  <strong>Fullstack developer </strong> 🚀
 </p>
 
 ---
@@ -14,6 +14,11 @@
 #### 🖥️ Front-end
 <p align="left">
   <img src="https://skillicons.dev/icons?i=javascript,typescript,react,vue,nextjs,tailwindcss,redux,pinia,webpack,vite" alt="Frontend" />
+</p>
+
+#### ⚙️ Back-end
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,django,postgresql,sql" alt="Backend" />
 </p>
 
 #### 🎨 Design
