@@ -21,9 +21,9 @@
   <img src="https://skillicons.dev/icons?i=python,django,postgresql,sql" alt="Backend" />
 </p>
 
-#### 🎨 Design
+### 👾 Other tools:
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=figma" alt="Figma" />
+  <img src="https://skillicons.dev/icons?i=figma,git,github" alt="Tools" />
 </p>
 
 ---
