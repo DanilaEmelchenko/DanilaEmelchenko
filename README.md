@@ -18,7 +18,12 @@
 
 #### ⚙️ Back-end
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,django,postgresql,sql" alt="Backend" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,python" alt="Backend" />
+</p>
+
+### 🗄️ Databases:
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=postgresql" alt="Databases" />
 </p>
 
 ### 👾 Other tools:
