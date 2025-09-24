@@ -18,7 +18,7 @@
 
 #### ⚙️ Back-end
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,python" alt="Backend" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express" alt="Backend" />
 </p>
 
 ### 🗄️ Databases:
