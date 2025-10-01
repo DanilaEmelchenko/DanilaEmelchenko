@@ -4,7 +4,7 @@
 </h1>
 
 <p align="left">
-  <strong>Fullstack developer </strong> 🚀
+  <strong>Front-end developer </strong> 🚀
 </p>
 
 ---
