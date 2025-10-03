@@ -13,7 +13,7 @@
 
 #### 🖥️ Front-end
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=javascript,typescript,react,vue,nextjs,tailwindcss,webpack,vite" alt="Frontend" />
+  <img src="https://skillicons.dev/icons?i=javascript,typescript,react,nextjs,tailwindcss,webpack,vite" alt="Frontend" />
 </p>
 
 #### ⚙️ Back-end
