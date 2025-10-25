@@ -16,11 +16,6 @@
   <img src="https://skillicons.dev/icons?i=javascript,typescript,react,nextjs,tailwindcss,webpack,vite" alt="Frontend" />
 </p>
 
-#### ⚙️ Back-end
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express" alt="Backend" />
-</p>
-
 ### 🗄️ Databases:
 <p align="left">
   <img src="https://skillicons.dev/icons?i=postgresql" alt="Databases" />
@@ -28,7 +23,7 @@
 
 ### 👾 Other tools:
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=figma,git,github" alt="Tools" />
+  <img src="https://skillicons.dev/icons?i=figma,git,github,gitlab" alt="Tools" />
 </p>
 
 ---
